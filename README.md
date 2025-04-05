@@ -23,3 +23,11 @@ Clone this repository to your local machine using Git:
 ```bash
 git clone https://github.com/afzal01765/basic-html-css-practice.git
 
+```
+# 🚀 Basic HTML & CSS Practice Project
+
+![Project Screenshot](https://i.imgur.com/u7S6j8z.jpg)
+
+This repository contains a collection of basic HTML and CSS exercises aimed at beginners who are looking to practice and solidify their web development skills. Each project focuses on a different aspect of HTML and CSS to help you get comfortable with the fundamental building blocks of web design.
+
+
