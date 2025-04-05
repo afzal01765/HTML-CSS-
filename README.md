@@ -1,4 +1,4 @@
-# 🚀 Basic HTML & CSS Practice & this Project
+# 🚀 Basic HTML & CSS Practice & this Projects
 
 This repository is a collection of basic HTML and CSS exercises aimed at beginners who are looking to practice and solidify their web development skills. Each project focuses on a different aspect of HTML and CSS to help you get comfortable with the fundamental building blocks of web design.
 
