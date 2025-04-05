@@ -21,4 +21,5 @@ This repository is a collection of basic HTML and CSS exercises aimed at beginne
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/username/basic-html-css-practice.git
+git clone https://github.com/afzal01765/basic-html-css-practice.git
+
