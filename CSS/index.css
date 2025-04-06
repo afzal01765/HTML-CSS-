@@ -1,3 +1,27 @@
 body{
-    font: optional;
+    background-color: black;
 }
+
+p{
+  color: antiquewhite;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.hello{
+    font: optional;
+    font-size: large;
+    font-weight: 200;
+    color: blueviolet;
+}
+#hello{
+    font-size: smaller;
+    color: aqua;
+}
+.welcome{
+    font-size: larger;
+    color: red;
+    
+}
+
+
