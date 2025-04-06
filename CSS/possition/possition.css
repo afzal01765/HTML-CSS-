@@ -1,0 +1,48 @@
+body{
+    background-color: antiquewhite;
+}
+
+.box1{
+
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border: 2px solid gray;
+    border-radius: 5%;
+    position: fixed;
+    text-align: center;
+    padding: auto;
+    margin-bottom: 100px;
+    size: 30px;
+    position: fixed;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+
+}
+
+.box2{
+
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border: 2px solid gray;
+    border-radius: 5%;
+    position: fixed;
+    text-align: center;
+    padding: auto;
+    margin-bottom: 100px;
+    size: 30px;
+    position: fixed;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+.continer{
+    display: flex;
+    gap: 20px;
+}
