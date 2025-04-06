@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+.border{
+    background-color: blanchedalmond;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    border-top: 2px solid red;
+    border-right: 3px dashed green;
+    border-bottom: 4px dotted blue;
+    border-left: 5px solid black;
+    border-radius: 5%;
+}
