@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to right, red , yellow);
+    background-image: url('image.jpg');
+    background-attachment: fixed;
+    
+}
