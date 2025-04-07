@@ -24,3 +24,7 @@ Clone this repository to your local machine using Git:
 git clone https://github.com/afzal01765/basic-html-css-practice.git
 
 ```
+landing page project image . 
+
+![image](https://github.com/user-attachments/assets/80fa1dd6-c992-4108-8ce2-567fc25bf282)
+
