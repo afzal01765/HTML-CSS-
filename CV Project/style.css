@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: gray;
+}
+.container{
+
+    max-width: 800px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.profile-image{
+
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    color:rgb(0, 0, 0);
+    padding:20px;
+    float: left;
+
+}
+.contact{
+
+    float:right;
+    padding:20px;
+
+}
+.contact p a{
+
+    color:teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-weight:bold;
+
+}
+.contact p a:hover{
+    
+    color:rgb(241, 121, 9);
+    text-decoration: underline;
+
+}
+
+.div_clear{
+    clear: both;
+}
+
+hr{
+    border: 1px solid black;
+    margin: 20px auto;
+}
