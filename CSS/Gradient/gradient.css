@@ -1,0 +1,9 @@
+.gradient-style{
+
+    width: 300px;
+    height:400px;
+    background: linear-gradient(to right, red, orange, yellow, green, blue);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    background: radial-gradient(circle at center, #ff6a00, #ff0080);
+
+}
