@@ -56,3 +56,38 @@ hr{
     border: 1px solid black;
     margin: 20px auto;
 }
+
+.left-div{
+    float:left;
+    width:30%;
+}
+.right-div{
+    float:left;
+    width:70%;
+}
+.content{
+    margin: 30px;
+}
+
+.common_hr{
+    border:solid black 0.1px;
+}
+
+h3{
+    color: aqua;
+}
+
+.footer {
+
+    background-color: #333;
+    color: white;
+    text-align:center;
+    position: relative;
+    padding:20px;
+    bottom: 0;
+    width: 95%;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+  }
